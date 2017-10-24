@@ -1,3 +1,4 @@
 <resources>
-    <color name="black">#ff000000</color>
+    <color name="black">@android:color/black</color>
+    <color name="white">@android:color/white</color>
 </resources>

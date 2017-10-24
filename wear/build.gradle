@@ -22,4 +22,5 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.android.support:wear:26.1.0'
     compile 'com.google.android.gms:play-services-wearable:11.0.4'
+    provided 'com.google.android.wearable:wearable:1.0.0'
 }

@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
-    <string name="hello_round">Hello Round World!</string>
-    <string name="hello_square">Hello Square World!</string>
-    <string name="sometext">Allow Media App to acess this device\'s storage?</string>
+    <string name="hello_BoxInsetLayout">Hello World BoxInsetLayout</string>
+    <string name="title_activity_boxinsetlayout">BoxInsetLayout</string>
 </resources>
